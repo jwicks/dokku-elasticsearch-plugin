@@ -7,7 +7,7 @@ Installation
 ------------
 ```
 cd /var/lib/dokku/plugins
-git clone https://github.com/jezdez/dokku-elasticsearch-plugin elasticsearch
+git clone https://github.com/jwicks/dokku-elasticsearch-plugin elasticsearch
 dokku plugins-install
 ```
 
